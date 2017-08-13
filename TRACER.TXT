@@ -1,0 +1,25 @@
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Aug 12 20:51:10 2017
+
+           946.781µS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Aug 12 20:51:31 2017
+
+           669.675µS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Aug 12 20:52:19 2017
+
+           731.682µS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Aug 12 20:52:32 2017
+
+           803.096µS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Aug 12 20:53:41 2017
+
+           735.103µS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
